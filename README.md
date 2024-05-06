@@ -17,6 +17,8 @@ VerbalExpressions is a JavaScript library that helps construct difficult regular
 <script src="VerbalExpressions.js"></script>
 ```
 
+### I am just a New Learner ignore me
+
 Or use the [jsDelivr CDN](https://www.jsdelivr.com/package/npm/verbal-expressions).
 
 ### On the server (node.js)
